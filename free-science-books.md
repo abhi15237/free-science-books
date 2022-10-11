@@ -126,8 +126,8 @@
 * [University Physics, Volume 1](https://openstax.org/details/books/university-physics-volume-1) - William Moebs, Samuel J. Ling, Jeff Sanny et al. (PDF)
 * [University Physics, Volume 2](https://openstax.org/details/books/university-physics-volume-2) - William Moebs, Samuel J. Ling, Jeff Sanny et al. (PDF)
 * [University Physics, Volume 3](https://openstax.org/details/books/university-physics-volume-3) - William Moebs, Samuel J. Ling, Jeff Sanny et al. (PDF)
-
-
+* Concepts of Physics (Volume -1)- H.C.Verma
+*  Concepts of Physics (Volume -2)- H.C.Verma
 ## (QD) Chemistry
 
 * [A Dictionary of Chemistry (1777)](https://unglue.it/work/140195/) - Pierre Joseph Macquer and James Keir
